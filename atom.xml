@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>xiangshuimu</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://xiangshuimu.github.io/</id>
+  <link href="https://xiangshuimu.github.io/" rel="alternate"/>
+  <link href="https://xiangshuimu.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, xiangshuimu</rights>
+  <subtitle>慢慢写，慢慢看</subtitle>
+  <title>猫神小站</title>
+  <updated>2026-11-19T03:03:33.041Z</updated>
+  <entry>
+    <author>
+      <name>xiangshuimu</name>
+    </author>
+    <category term="生活" scheme="https://xiangshuimu.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://xiangshuimu.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<p>这是这个博客的第一篇。</p><p>搭起来的过程比想象中麻烦一点：Git 装不上、GitHub 打不开、注册卡在验证，几件事凑一块儿，像有人在门口拦着不让进。但东西总归是要搭起来的，慢一点也没关系。</p><p>这里大概会写三类东西：</p><ul><li>折腾电脑和代码时踩的坑</li><li>看过的书和片子的零碎感想</li><li>一些没头没尾，但当时很当真的念头</li></ul><p>不保证更新，也不保证有用。就这么着吧。</p>]]>
+    </content>
+    <id>https://xiangshuimu.github.io/2026/11/19/hello-world/</id>
+    <link href="https://xiangshuimu.github.io/2026/11/19/hello-world/"/>
+    <published>2026-11-19T02:05:00.000Z</published>
+    <summary>
+      <![CDATA[<p>这是这个博客的第一篇。</p>
+<p>搭起来的过程比想象中麻烦一点：Git 装不上、GitHub 打不开、注册卡在验证，几件事凑一块儿，像有人在门口拦着不让进。但东西总归是要搭起来的，慢一点也没关系。</p>
+<p>这里大概会写三类东西：</p>
+<ul>
+<li>折腾电脑]]>
+    </summary>
+    <title>你好，世界</title>
+    <updated>2026-11-19T03:03:33.041Z</updated>
+  </entry>
+</feed>
